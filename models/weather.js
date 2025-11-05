@@ -1,0 +1,1 @@
+// This file is intentionally left blank. There is no need for the model, as the data will be coming from the api
